@@ -54,6 +54,7 @@ INSTALLED_APPS = (
     'bootstrap3',
     'geoposition',
     'bootstrap_pagination',
+   
 )
 
 MIDDLEWARE_CLASSES = (
